@@ -23,6 +23,7 @@ input {
   margin-left: 5%;
 }
 
-/* ul {
-  list-style: none;
-} */
+.completed {
+  color: #aaa;
+  text-decoration: line-through;
+}
